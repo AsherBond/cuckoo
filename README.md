@@ -11,7 +11,7 @@ https://web.archive.org/web/20190114062459/http://cryptorials.io/beyond-hashcash
 
 My [Grincon0 talk](https://www.youtube.com/watch?v=OsBsz8bKeN4) on Jan 28, 2019 in San Mateo.
 
-My [Grin Amsterdam talk](https://www.youtube.com/watch?v=IHNUEOt-W2c&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) on Mar 26, 2019 in Lil' Amsterdam at Central Station.
+My [Grin Amsterdam talk](https://www.youtube.com/watch?v=IHNUEOt-W2c&list=PLvgCPbagiHgpJXhrKAJu0Q-mbCVhpqgu7) on Mar 26, 2019 in [Lil' Amsterdam](https://www.youtube.com/watch?v=nm1usRL6N5w) at Central Station.
 
 My [Grincon1](https://grincon.org/) [talk](https://www.youtube.com/watch?list=PLvgCPbagiHgqYdVUj-ylqhsXOifWrExiq&v=CLiKX0nOsHE) on Nov 22, 2019 in Berlin.
 
